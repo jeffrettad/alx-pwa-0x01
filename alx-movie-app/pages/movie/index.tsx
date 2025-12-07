@@ -1,4 +1,4 @@
-import Button from "@/components/commons/Button";
+/import Button from "@/components/commons/Button";
 import Loading from "@/components/commons/Loading";
 import MovieCard from "@/components/commons/MovieCard";
 import { MoviesProps } from "@/interfaces";
