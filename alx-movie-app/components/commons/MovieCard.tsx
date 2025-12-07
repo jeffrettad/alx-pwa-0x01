@@ -1,4 +1,4 @@
-import { MovieProps } from "@/interfaces"
+mport { MovieProps } from "@/interfaces"
 import Image from "next/image"
 
 const MovieCard: React.FC<MovieProps> = ({ title, posterImage, releaseYear }) => {
