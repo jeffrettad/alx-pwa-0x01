@@ -1,4 +1,4 @@
-import { Html, Head, Main, NextScript } from "next/document";
+limport { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
