@@ -1,4 +1,4 @@
-mport { ComponentProps } from "@/interfaces";
+import { ComponentProps } from "@/interfaces";
 import Header from "./Header";
 import Footer from "./Footer";
 
